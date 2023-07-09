@@ -14,7 +14,7 @@ from PIL import Image
 from imdb import IMDb
 import gdown
 import h5py
-
+nltk.download("stopwords")
 
 # Load the sentiment analysis model
 model = keras.models.load_model("modelANN.h5")
