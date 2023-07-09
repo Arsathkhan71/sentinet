@@ -3,8 +3,6 @@
 
 Sentinet is a web application that performs sentiment analysis on IMDb movie reviews. It leverages natural language processing techniques to determine the sentiment (positive or negative) expressed in a given movie review. The application also provides movie details fetched from the OMDB API, including the movie title, release year, genre, director, actors, and plot. Additionally, it displays a movie poster and retrieves user reviews for a specific movie and visualizes the overall sentiment.
 
-Download Model: https://drive.google.com/file/d/1i2O4WBOpcVGkN2WOZ5NAE9XQGWWqwZmz/view?usp=drive_link
-
 
 ## Demo
 
@@ -12,7 +10,11 @@ Download Model: https://drive.google.com/file/d/1i2O4WBOpcVGkN2WOZ5NAE9XQGWWqwZm
 
 https://github.com/Arsathkhan71/sentinet/assets/118503532/2c2ac267-98ad-41ee-b9a6-fe02d80c74ac
 
+## Deployment
+To access the deployed version of the application, you can click on the following link:
 
+[Sentinet Deployment](https://sentinet-4sl2dm61akr.streamlit.app/)
+-This link will take you to the live version of the Sentinet application, where you can interact with its features.
 
 
 ## Features
@@ -71,6 +73,7 @@ https://github.com/Arsathkhan71/sentinet/assets/118503532/2c2ac267-98ad-41ee-b9a
 
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for more information.
+
 ## Acknowledgements
 
 - The creators and contributors of the open-source libraries used in this project.
