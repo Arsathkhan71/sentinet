@@ -11,7 +11,11 @@ To access the deployed version of the application, you can click on the followin
 
 ## Demo
 
-https://github.com/Arsathkhan71/sentinet/assets/118503532/2c2ac267-98ad-41ee-b9a6-fe02d80c74ac
+
+
+
+https://github.com/Arsathkhan71/sentinet/assets/118503532/1a7c74ac-e3ee-44a6-8585-5d98cc762679
+
 
 ## Features
 
