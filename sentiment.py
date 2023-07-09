@@ -12,8 +12,9 @@ import requests
 from sklearn.feature_extraction.text import TfidfVectorizer
 from PIL import Image
 from imdb import IMDb
+import gdown
 
-
+gdown.download("https://drive.google.com/file/d/1i2O4WBOpcVGkN2WOZ5NAE9XQGWWqwZmz/view?usp=drive_link", output="modelANN.h5")
 
 
 # Load the sentiment analysis model
