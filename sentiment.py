@@ -13,6 +13,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from PIL import Image
 from imdb import IMDb
 import gdown
+import h5py
 
 # Download the model file from File.io
 url = 'https://file.io/N4qHJVU3FEyZ'  # Replace with your File.io token URL
