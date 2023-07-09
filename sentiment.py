@@ -15,13 +15,6 @@ from imdb import IMDb
 import gdown
 import h5py
 
-# Download the model file from File.io
-url = 'https://file.io/N4qHJVU3FEyZ'  # Replace with your File.io token URL
-response = requests.get(url)
-
-# Save the model file
-with open('modelANN.h5', 'wb') as file:
-    file.write(response.content)
 
 # Load the sentiment analysis model
 model = keras.models.load_model("modelANN.h5")
